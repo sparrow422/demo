@@ -1,5 +1,6 @@
-package com.example.demo;
+package com.example.demo.question;
 
+import com.example.demo.answer.Answer;
 import lombok.Getter;
 import lombok.Setter;
 

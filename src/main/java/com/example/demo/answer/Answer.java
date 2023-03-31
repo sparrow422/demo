@@ -1,5 +1,6 @@
-package com.example.demo;
+package com.example.demo.answer;
 
+import com.example.demo.question.Question;
 import lombok.Getter;
 import lombok.Setter;
 import org.springframework.data.annotation.CreatedDate;
